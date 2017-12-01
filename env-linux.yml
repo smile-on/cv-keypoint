@@ -86,6 +86,7 @@ dependencies:
   - olefile==0.44
   - opencv-python==3.2.0.6
   - packaging==16.8
+  - pandas==0.21.0
   - pillow==4.0.0
   - prompt-toolkit==1.0.14
   - protobuf==3.3.0
@@ -101,5 +102,5 @@ dependencies:
   - tqdm==4.11.2
   - udacity-pa==0.2.4
   - werkzeug==0.12.1
-
+prefix: /home/sl/bin/anaconda3/envs/aind2-cv
 
