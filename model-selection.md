@@ -83,3 +83,38 @@ Selection choice: **linear + linear**.
 ## 2. Model size 
 
 At this step selection we concern about sizes and shape of CNN part in our model. Selection parameters **TODO**. Method of selection - brute force with grid search.
+
+## 3. Hyperparameters
+
+Hyperparameters, optimizer
+
+## 4. Regularization of learning
+
+Boost generalization by adding drop-out, noise, regularization inside layers and limit hidden layer size. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Improvements in learning method
+
+Add  image pre-processing step in pipeline. Select areas with skin like color and make them very contrast images to remove unrelated details (noise) from CNN's input information.
+
+Learn more from more data. Get more data, data augmentation + residual network. Use ensemble of models?
+
+Learn more from less data by semi-supervised approach + experiment with totally different architectures like Hinton capsule based.
+
+
+
+
+
+
+
