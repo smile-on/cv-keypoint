@@ -82,11 +82,17 @@ Selection choice: **linear + linear**.
 
 ## 2. Model size 
 
-At this step selection we concern about sizes and shape of CNN part in our model. Selection parameters **TODO**. Method of selection - brute force with grid search.
+At this step selection we concern about sizes and shape of CNN part in our model.  Method of selection - brute force with sci-kit grid search. 
+
+Selected parameters: **TODO**.
 
 ## 3. Hyperparameters
 
 Hyperparameters, optimizer
+
+Selected parameters: **TODO**.
+
+
 
 ## 4. Regularization of learning
 
